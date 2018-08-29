@@ -1,6 +1,6 @@
 # zoo
 A list of files about zoo animals
-## Categories of anumals 
+## Categories of animals 
 * Mammals 
 * Insects
 * Birds
